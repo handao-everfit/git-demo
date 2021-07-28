@@ -1,1 +1,1 @@
-# git-merge-demo
+# git-demo
